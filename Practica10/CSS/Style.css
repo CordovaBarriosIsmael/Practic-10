@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color: rgba(199, 247, 247);
+}
+
+nav{
+    background-color: rgb(56, 55, 55);
+}
+
+/*******************************************/
+.Ubicacion{
+    float: left;
+    position: relative;
+    padding-left: 1cm;
+}
+
+.Contacto{
+    float:right;
+    position: relative;
+    padding-right: 1cm;
+}
